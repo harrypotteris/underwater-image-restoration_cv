@@ -22,28 +22,6 @@ This project extends the FUnIE-GAN framework by introducing a physics-guided pre
 
 ---
 
-## Repository Structure
-
-FUnIE-GAN-submit/
-│
-├── PyTorch/                  
-├── Evaluation/               
-├── models/                   
-│   ├── funie_generator.pth  
-│   └── RealESRGAN_x4plus.pth  
-│
-├── sea_thru.py               
-├── pipeline.py               
-│
-├── data/
-│   └── output/
-│       ├── comparisons_known/
-│       └── comparisons_unknown/
-│
-└── README.md
-
----
-
 ## Installation
 
 ### 1. Clone FUnIE-GAN repository
